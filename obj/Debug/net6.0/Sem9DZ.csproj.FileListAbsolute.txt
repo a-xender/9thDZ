@@ -1,0 +1,15 @@
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.csproj.AssemblyReference.cache
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.AssemblyInfoInputs.cache
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.AssemblyInfo.cs
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.csproj.CoreCompileInputs.cache
+C:\С#1\Sem9DZ\bin\Debug\net6.0\Sem9DZ.exe
+C:\С#1\Sem9DZ\bin\Debug\net6.0\Sem9DZ.deps.json
+C:\С#1\Sem9DZ\bin\Debug\net6.0\Sem9DZ.runtimeconfig.json
+C:\С#1\Sem9DZ\bin\Debug\net6.0\Sem9DZ.dll
+C:\С#1\Sem9DZ\bin\Debug\net6.0\Sem9DZ.pdb
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.dll
+C:\С#1\Sem9DZ\obj\Debug\net6.0\refint\Sem9DZ.dll
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.pdb
+C:\С#1\Sem9DZ\obj\Debug\net6.0\Sem9DZ.genruntimeconfig.cache
+C:\С#1\Sem9DZ\obj\Debug\net6.0\ref\Sem9DZ.dll
